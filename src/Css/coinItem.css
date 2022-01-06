@@ -1,0 +1,21 @@
+.coin_div {
+  align-items: center;
+  justify-content: center;
+}
+.Coin_image {
+  text-align: center;
+  margin: 10px 0;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.coin_symbol {
+  margin-right: 10px;
+  text-transform: uppercase;
+  color: slategray;
+}
+.red {
+  color: rgb(248, 50, 50);
+}
+.green {
+  color: rgb(20, 218, 20);
+}
